@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["W grze **ASTROSMP.PL**"];
+const statusMessages = ["W grze ASTROSMP.PL"];
 
 
 let currentIndex = 0;
