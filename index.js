@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["W grze ASTROSMP.PL"];
+const statusMessages = ["Ogląda Keycore.pl, ChestPvP , MegaDrop , SkyBlock"];
 
 
 let currentIndex = 0;
