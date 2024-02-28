@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ogląda Keycore.pl, ChestPvP , MegaDrop , SkyBlock"];
+const statusMessages = ["Ogląda Keycore.pl","ChestPvP" ,"MegaDrop" ,"SkyBlock"];
 
 
 let currentIndex = 0;
